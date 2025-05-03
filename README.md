@@ -4,12 +4,12 @@
 
 ## Laurin
 
-Hallo! Mein Name ist Laurin und ich bin 17 Jahre alt. Seit vier Jahren beschäftige ich mich intensiv mit Java und habe in dieser Zeit zahlreiche Projekte entwickelt und an Open-Source-Communitys teilgenommen. Vor zwei Jahren bin ich auf Kotlin umgestiegen und habe seitdem meine Leidenschaft für die Sprache entdeckt.
+Hallo! Mein Name ist Laurin und ich bin 18 Jahre alt. Seit fünf Jahren beschäftige ich mich intensiv mit Java und habe in dieser Zeit zahlreiche Projekte entwickelt und an Open-Source-Communitys teilgenommen. Vor zwei Jahren bin ich auf Kotlin umgestiegen und habe seitdem meine Leidenschaft für die Sprache entdeckt.
 
 ## Technische Fähigkeiten
 
 - **Java:** 4 Jahre Erfahrung
-- **Kotlin:** 3 Jahre Erfahrung
+- **Kotlin:** 4 Jahre Erfahrung
 
 ## Was ich mache
 
