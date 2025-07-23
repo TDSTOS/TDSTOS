@@ -8,7 +8,7 @@ Hallo! Mein Name ist Laurin und ich bin 18 Jahre alt. Seit fünf Jahren beschäf
 
 ## Technische Fähigkeiten
 
-- **Java:** 4 Jahre Erfahrung
+- **Java:** 5 Jahre Erfahrung
 - **Kotlin:** 4 Jahre Erfahrung
 
 ## Was ich mache
