@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TDSTOS-181717?style=for-the-badge&logo=github)](https://github.com/TDSTOS)
 [![Discord](https://img.shields.io/badge/Discord-laurinvl-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![E-Mail](https://img.shields.io/badge/Email-todesstoss@outlook.de-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:todesstoss@outlook.de)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://de.fiverr.com/s/qD1p5jX)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://de.fiverr.com/laurinfldr)
 
 </div>
 
@@ -65,7 +65,7 @@ Ich bin 18 Jahre alt und programmiere seit über sechs Jahren. Angefangen habe i
 ### 💼 Freelance
 
 Ich biete personalisierte **Websites** und **Desktop-Applikationen** als Freelancer an.  
-Schau gerne auf meinem [**Fiverr-Profil**](https://de.fiverr.com/s/qD1p5jX) vorbei!
+Schau gerne auf meinem [**Fiverr-Profil**](https://de.fiverr.com/laurinfldr) vorbei!
 
 ---
 
