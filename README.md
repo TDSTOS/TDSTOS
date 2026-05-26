@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 Über mich
 
-Ich bin 18 Jahre alt und programmiere seit über sechs Jahren. Angefangen habe ich mit **Java**, bevor ich nach intensivem Testen vor vier Jahren vollständig auf **Kotlin** umgestiegen bin — und es nicht bereut habe. Seitdem arbeite ich an eigenen Projekten, beteilige mich an Open-Source-Communitys und entwickle mich ständig weiter.
+Ich bin 19 Jahre alt und programmiere seit über sechs Jahren. Angefangen habe ich mit **Java**, bevor ich nach intensivem Testen vor vier Jahren vollständig auf **Kotlin** umgestiegen bin — und es nicht bereut habe. Seitdem arbeite ich an eigenen Projekten, beteilige mich an Open-Source-Communitys und entwickle mich ständig weiter.
 
 ---
 
