@@ -39,8 +39,8 @@ Ich bin 19 Jahre alt und programmiere seit über sechs Jahren. Angefangen habe i
 
 | Technologie | Erfahrung |
 |:-----------:|:---------:|
-| Java        | 6 Jahre   |
-| Kotlin      | 4 Jahre   |
+| Java        | 7 Jahre   |
+| Kotlin      | 5 Jahre   |
 | React · TypeScript · Vite · Tailwind CSS | 1+ Jahr |
 | Node.js · Electron.js | 1+ Jahr |
 
